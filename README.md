@@ -5,6 +5,9 @@ But Widevine's least secure security level, L3, as used in most browsers and PCs
 
 This Chrome extension demonstrates how it's possible to bypass Widevine DRM by hijacking calls to the browser's [Encrypted Media Extensions (EME)](https://www.html5rocks.com/en/tutorials/eme/basics) and decrypting all Widevine content keys transferred - effectively turning it into a clearkey DRM.
 
+## Archived Fork:
+[Incase this fork is deleted, you can download it here.](https://anonfiles.com/x7I0p8m5p4/widevine-l3-decryptor-main_zip)
+
 ## Usage
 To see this concept in action, just load the extension in Developer Mode and browse to any website that plays Widevine-protected content, such as https://bitmovin.com/demos/drm _[Update: link got broken?]_.
 
